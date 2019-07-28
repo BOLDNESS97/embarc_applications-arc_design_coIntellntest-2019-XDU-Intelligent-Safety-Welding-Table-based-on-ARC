@@ -1,0 +1,1 @@
+# embarc_applications-arc_design_coIntellntest-2019-XDU-Intelligent-Safety-Welding-Table-based-on-ARC
